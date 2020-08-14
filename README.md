@@ -1,10 +1,10 @@
 # machine-learning-model-analysis
 Machine Learning Project to see the analysis of different types of models of similar data sets
 
-```
+
 The goal of this project is to give students experience in the following aspects of applied machine learning:
 ------------------------------------------------------------------------------------------------------------
-
+```
 collecting data sets that are given in diverse formats;
 preparing data sets for training and testing;
 training many types of classification and regression models;
@@ -14,9 +14,10 @@ generating plots that summarize performance;
 different approaches to interpretability; and
 writing about machine learning concepts, experiments, and results.
 ```
-```
+
 Classification models
 ---------------------------------------------------------------------
+```
 You should evaluate the following classification models:
 k-nearest neighbours classification
 Support vector classification
